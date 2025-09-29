@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-s-fletcher/when-charles-the-first-was-king</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-09-29T00:25:40Z</dc:date>
+		<meta property="dcterms:modified">2025-09-29T00:25:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,8 +49,7 @@
 		<dc:description id="description">Serving for the Royalist cause affects the domestic life of a young Yorkshire farmer during the English Civil War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The Dales of Dale’s Field have farmed their Yorkshire estate for generations. But conflict with a local enemy and the outbreak of the English Civil War make a deep impact on Will Dale, the young yeoman farmer currently the estate’s owner. His instinct to support the Royalist cause puts him inevitably in conflict with many in the North. This also leads to surprising chance encounters as the Parliamentarians move inexorably towards executing King Charles I. In more personal terms, the tumultuous times frustrate Will’s hopes of making a stable life with the woman he loves.&lt;/p&gt;
-			&lt;p&gt;Like &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Arthur Conan Doyle&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;&lt;abbr&gt;J. S.&lt;/abbr&gt; Fletcher&lt;/a&gt; was a successful writer of historical fiction before turning to detective novels for which both are best known today. The pivot from history to crime is not so quirky as it might appear: historical novels were the potboiler best-sellers of the late nineteenth century. &lt;a href="https://standardebooks.org/ebooks/walter-scott"&gt;Walter Scott&lt;/a&gt; provided the main inspiration, and writers as diverse as &lt;a href="https://standardebooks.org/ebooks/george-eliot"&gt;George Eliot&lt;/a&gt;, Charles Reade, &lt;a href="https://standardebooks.org/ebooks/arthur-quiller-couch"&gt;Arthur Quiller-Couch&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson&lt;/a&gt;, and many others produced a vast amount of historical fiction for eager readers.&lt;/p&gt;
-			&lt;p&gt;Fletcher wrote a number of historical studies of Yorkshire, and all his early novels were in this genre. &lt;i&gt;When Charles the First Was King&lt;/i&gt; is described in Jonathan Nield’s authoritative guide to Victorian historical fiction as “an excellent Yorkshire tale.” It stands up well in the company of its more famous comparators.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;Fletcher&lt;/a&gt; wrote a number of historical studies of Yorkshire—indeed, all his early novels were in this genre. &lt;i&gt;When Charles the First Was King&lt;/i&gt; is described in Jonathan Nield’s authoritative guide to Victorian historical fiction as “an excellent Yorkshire tale.” It stands up well in the company of its more famous contemporaries.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://catalog.hathitrust.org/Record/100109698</dc:source>
@@ -58,8 +57,8 @@
 		<dc:source>https://archive.org/details/whencharlesfirst01flet</dc:source>
 		<dc:source>https://archive.org/details/whencharlesfirst02flet</dc:source>
 		<dc:source>https://archive.org/details/whencharlesfirst03flet</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">132163</meta>
+		<meta property="se:reading-ease.flesch">74.73</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_when-charles-the-first-was-king</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
 		<meta property="file-as" refines="#author">Fletcher, J. S.</meta>
@@ -83,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
