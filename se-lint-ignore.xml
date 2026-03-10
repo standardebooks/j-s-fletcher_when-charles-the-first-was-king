@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-45.xhtml">
 		<ignore code="t-076">
+			<line>43</line>
 			<reason>Dialect with missing letters has marked missing letters with `’`. There are no graphemes/phonemes.</reason>
 		</ignore>
 	</file>
